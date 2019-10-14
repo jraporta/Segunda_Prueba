@@ -1,0 +1,17 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+commit 8da9cf41258c811f8a3a9d5427587ff2b1f224e0 (HEAD -> ModifiedOutput, origin/ModifiedOutput)
+Author: jraporta <jraporta@gmail.com>
+Date:   Mon Oct 14 21:19:21 2019 +0000
+
+    Primer Release de la branch NewFeature
+
+commit 44cf6946d3dd28e099c4f8873e81d4881d5ba708 (origin/master, master)
+Author: jraporta <jraporta@gmail.com>
+Date:   Mon Oct 14 20:45:41 2019 +0000
+
+    Añadidos parentesis al código para adaptarlo a python3.
